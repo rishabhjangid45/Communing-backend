@@ -8,6 +8,7 @@ public class CommuningApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CommuningApplication.class, args);
+		System.out.println("CommuningApplication started successfully!");
 	}
 
 }
