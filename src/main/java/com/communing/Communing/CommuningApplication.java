@@ -9,7 +9,7 @@ public class CommuningApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(CommuningApplication.class, args);
-		System.out.println("pratiksha");
+		System.out.println("pratiksha agarwal");
 	}
 
 }
